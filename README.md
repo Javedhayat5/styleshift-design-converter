@@ -161,8 +161,3 @@ GitHub: https://github.com/Jac55/My-portfolio-.git
 
 LinkedIn: https://www.linkedin.com/in/javed-hayat-ba0537237?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-
-Before publishing, replace:
-- `yourusername` with your actual GitHub username.
-- The GitHub Pages and LinkedIn links with your real URLs.
-- Add screenshots (or a GIF) to the `screenshots` folder for a much more professional repository.
