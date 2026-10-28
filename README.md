@@ -6,7 +6,7 @@ StyleShift is a lightweight browser-based design converter that lets developers 
 
 ## ✨ Live Demo
 
-🌐 https://yourusername.github.io/styleshift/
+🌐 https://javedhayat5.github.io/styleshift-design-converter/
 
 ## 📦 GitHub Repository
 
