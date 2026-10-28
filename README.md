@@ -91,7 +91,7 @@ Example:
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/styleshift.git
+git clone [https://github.com/Javedhayat5](https://github.com/Javedhayat5)
 
 Open
 
