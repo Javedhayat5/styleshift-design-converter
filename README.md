@@ -72,17 +72,21 @@ StyleShift is a lightweight browser-based design converter that lets developers 
 
 # 📷 Screenshots
 
-Add screenshots inside the **/screenshots** folder.
+## 🏠 Home
 
-Example:
+![Home](screenshots/home.png)
 
+---
 
-/screenshots
-├── home.png
-├── glassmorphism.png
-├── dark-mode.png
-└── mobile.png
+## ✨ Glassmorphism Style
 
+![Glassmorphism](screenshots/glassmorphism.png)
+
+---
+
+## 🎨 Memphis Style
+
+![Memphis](screenshots/Memphis.png)
 
 ---
 
